@@ -4,7 +4,7 @@ const Hero = () => {
     <section className="bg-violet-100 dark:bg-black text-black dark:text-white">
 	<div className="container flex flex-col justify-center p-1 mx-auto sm:py-10 lg:py-24 lg:flex-row lg:justify-between">
 		<div className="flex flex-col justify-center p-6 text-center rounded-sm lg:max-w-md xl:max-w-lg lg:text-left">
-			<h1 className="text-5xl font-bold leading-none sm:text-6xl">I'm RAMANA <br/>
+			<h1 className="text-4xl font-bold leading-none sm:text-5xl">I'm RAMANA <br/>
 				<span className="text-green-600 dark:text-green-600">MERN</span> STACK DEVELOPER
 			</h1>
 			<p className="mt-6 mb-8 text-lg sm:mb-12">I’m currently learning to make Full Stack Projects..! 
